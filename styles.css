@@ -123,22 +123,6 @@ section{
 
 }
 
-/* Scrollbar styles */
-
-::-webkit-scrollbar {
-    width: 20px;
-    scroll-behavior: smooth;
-  }
-  
-  ::-webkit-scrollbar-track {
-    background: #e4e6fa;
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    background: #ffffff;
-    border-radius: 10px 0 0 10px;
-  }
-
 
 
 
