@@ -814,7 +814,8 @@ div.contents > div{
 div.contents > div > input{
     border-radius: 20px;
     border: #698cce solid 1px;
-    height: 50px;
+    height: 40px;
+    text-align: center;
 
 
 }
@@ -874,11 +875,6 @@ div.contents a:hover{
     }
   }
   
-
-@media (width > height){
-
-}
-
 
 
 
