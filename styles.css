@@ -819,6 +819,11 @@ div.contents > div > input{
 
 }
 
+div.contents > div > input::placeholder {
+    text-align: center;
+    color: #698cce;
+  }
+
 div.contents > div > a{
     text-decoration: none;
     padding-left: 0;
