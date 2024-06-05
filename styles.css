@@ -825,6 +825,7 @@ div.contents > div > a{
     color: #005aff;
 }
 
+
 div.contents > div > div{
     display: flex;
     justify-content: space-between;
@@ -851,6 +852,10 @@ div.contents > div > div > a:nth-child(2){
 
 
 /* MEDIA */
+
+div.contents a:hover{
+    font-weight: 500;
+}
 
 @media (orientation: landscape) and (min-aspect-ratio: 1/1) {
     body > main > section > div > div{
